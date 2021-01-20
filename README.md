@@ -5,4 +5,4 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=termux-key&theme=chartreuse-dark" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=masklink&theme=chartreuse-dark" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=bdall&theme=chartreuse-dark" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=hisabxodai&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=calculator&theme=chartreuse-dark" />
