@@ -1,4 +1,5 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/abdullahalemon2)](https://github.com/abdullahalemon2)
+# <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+ [![Profile views](https://gpvc.arturio.dev/abdullahalemon2)](https://github.com/abdullahalemon2)
 
 
 ![PicsArt_01-16-06 21 26](https://user-images.githubusercontent.com/77507222/104790967-19eaf580-57c3-11eb-8df6-a1f29a8f5ecd.png)
