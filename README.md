@@ -5,7 +5,7 @@
 -----
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdullahalemon2&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 -----
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullahalemon2&layout=compact&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullahalemon2&theme=highcontrast" />
 
 -----
 ----
