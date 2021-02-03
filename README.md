@@ -14,7 +14,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abdullahalemon2&theme=dracula"/>   
 </div>
 
-####
-
-<div align="center">
-   <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
+-----
