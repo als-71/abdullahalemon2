@@ -6,9 +6,9 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdullahalemon2&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 -----
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullahalemon2&layout=compact&theme=highcontrast" />
+
 -----
-
-
+----
 <div align="center">  
      <h2>🏆 Github Trophies 🏆</h2> <br>
     <img src="https://github-profile-trophy.vercel.app/?username=abdullahalemon2&theme=dracula"/>   
