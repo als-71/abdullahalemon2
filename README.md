@@ -12,3 +12,9 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=bdall&theme=chartreuse-dark" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=calculator&theme=chartreuse-dark" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=abdullahalemon2&repo=Termux-Root&theme=chartreuse-dark" />
+
+
+<div align="center">  
+     <h2>🏆 Github Trophies 🏆</h2> <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=abdullahalemon2&theme=onedark"/>   
+</div>
