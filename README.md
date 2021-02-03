@@ -10,11 +10,9 @@
 
 <div align="center">  
      <h2>🏆 Github Trophies 🏆</h2> <br>
------
     <img src="https://github-profile-trophy.vercel.app/?username=abdullahalemon2&theme=dracula"/>   
 </div>
 
----
 ####
 
 <div align="center">
